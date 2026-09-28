@@ -1,0 +1,267 @@
+id,title,difficulty,category,url,lists
+1,Two Sum,Easy,algorithms,https://leetcode.com/problems/two-sum/,B75 NC150 NC250 G169 TI150 T100 SPP
+2,Add Two Numbers,Medium,algorithms,https://leetcode.com/problems/add-two-numbers/,NC150 NC250 G169 TI150 T100 SPP
+3,Longest Substring Without Repeating Characters,Medium,algorithms,https://leetcode.com/problems/longest-substring-without-repeating-characters/,B75 NC150 NC250 G169 TI150 T100 SPP
+4,Median of Two Sorted Arrays,Hard,algorithms,https://leetcode.com/problems/median-of-two-sorted-arrays/,NC150 NC250 G169 TI150 T100 SPP
+5,Longest Palindromic Substring,Medium,algorithms,https://leetcode.com/problems/longest-palindromic-substring/,B75 NC150 NC250 G169 TI150 T100 SPP
+9,Palindrome Number,Easy,algorithms,https://leetcode.com/problems/palindrome-number/,G169 TI150
+10,Regular Expression Matching,Hard,algorithms,https://leetcode.com/problems/regular-expression-matching/,NC150 NC250
+11,Container With Most Water,Medium,algorithms,https://leetcode.com/problems/container-with-most-water/,B75 NC150 NC250 G169 LC75 TI150 T100 SPP
+13,Roman to Integer,Easy,algorithms,https://leetcode.com/problems/roman-to-integer/,NC250 G169 TI150
+14,Longest Common Prefix,Easy,algorithms,https://leetcode.com/problems/longest-common-prefix/,NC250 G169 TI150
+15,3Sum,Medium,algorithms,https://leetcode.com/problems/3sum/,B75 NC150 NC250 G169 TI150 T100 SPP
+17,Letter Combinations of a Phone Number,Medium,algorithms,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,NC150 NC250 G169 LC75 TI150 T100 SPP
+18,4Sum,Medium,algorithms,https://leetcode.com/problems/4sum/,NC250
+19,Remove Nth Node From End of List,Medium,algorithms,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,B75 NC150 NC250 G169 TI150 T100 SPP
+20,Valid Parentheses,Easy,algorithms,https://leetcode.com/problems/valid-parentheses/,B75 NC150 NC250 G169 TI150 T100 SPP
+21,Merge Two Sorted Lists,Easy,algorithms,https://leetcode.com/problems/merge-two-sorted-lists/,B75 NC150 NC250 G169 TI150 T100 SPP
+23,Merge k Sorted Lists,Hard,algorithms,https://leetcode.com/problems/merge-k-sorted-lists/,B75 NC150 NC250 G169 TI150 T100 SPP
+25,Reverse Nodes in k-Group,Hard,algorithms,https://leetcode.com/problems/reverse-nodes-in-k-group/,NC150 NC250 G169 TI150 T100 SPP
+26,Remove Duplicates from Sorted Array,Easy,algorithms,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,NC250 TI150
+27,Remove Element,Easy,algorithms,https://leetcode.com/problems/remove-element/,NC250 TI150
+28,Find the Index of the First Occurrence in a String,Easy,algorithms,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,TI150
+30,Substring with Concatenation of All Words,Hard,algorithms,https://leetcode.com/problems/substring-with-concatenation-of-all-words/,TI150 SPP
+31,Next Permutation,Medium,algorithms,https://leetcode.com/problems/next-permutation/,G169 T100
+32,Longest Valid Parentheses,Hard,algorithms,https://leetcode.com/problems/longest-valid-parentheses/,G169 T100
+33,Search in Rotated Sorted Array,Medium,algorithms,https://leetcode.com/problems/search-in-rotated-sorted-array/,B75 NC150 NC250 G169 TI150 T100 SPP
+34,Find First and Last Position of Element in Sorted Array,Medium,algorithms,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,TI150 T100
+35,Search Insert Position,Easy,algorithms,https://leetcode.com/problems/search-insert-position/,NC250 TI150 T100
+37,Sudoku Solver,Hard,algorithms,https://leetcode.com/problems/sudoku-solver/,G169 SPP
+38,Count and Say,Medium,algorithms,https://leetcode.com/problems/count-and-say/,
+39,Combination Sum,Medium,algorithms,https://leetcode.com/problems/combination-sum/,B75 NC150 NC250 G169 TI150 T100 SPP
+40,Combination Sum II,Medium,algorithms,https://leetcode.com/problems/combination-sum-ii/,NC150 NC250 SPP
+41,First Missing Positive,Hard,algorithms,https://leetcode.com/problems/first-missing-positive/,NC250 G169 T100 SPP
+42,Trapping Rain Water,Hard,algorithms,https://leetcode.com/problems/trapping-rain-water/,NC150 NC250 G169 TI150 T100 SPP
+44,Wildcard Matching,Hard,algorithms,https://leetcode.com/problems/wildcard-matching/,
+45,Jump Game II,Medium,algorithms,https://leetcode.com/problems/jump-game-ii/,NC150 NC250 TI150 T100
+46,Permutations,Medium,algorithms,https://leetcode.com/problems/permutations/,NC150 NC250 G169 TI150 T100 SPP
+48,Rotate Image,Medium,algorithms,https://leetcode.com/problems/rotate-image/,B75 NC150 NC250 G169 TI150 T100 SPP
+49,Group Anagrams,Medium,algorithms,https://leetcode.com/problems/group-anagrams/,B75 NC150 NC250 G169 TI150 T100 SPP
+50,"Pow(x, n)",Medium,algorithms,https://leetcode.com/problems/powx-n/,NC150 NC250 G169 TI150
+51,N-Queens,Hard,algorithms,https://leetcode.com/problems/n-queens/,NC150 NC250 G169 T100 SPP
+52,N-Queens II,Hard,algorithms,https://leetcode.com/problems/n-queens-ii/,NC250 TI150
+53,Maximum Subarray,Medium,algorithms,https://leetcode.com/problems/maximum-subarray/,B75 NC150 NC250 G169 TI150 T100 SPP
+54,Spiral Matrix,Medium,algorithms,https://leetcode.com/problems/spiral-matrix/,B75 NC150 NC250 G169 TI150 T100 SPP
+55,Jump Game,Medium,algorithms,https://leetcode.com/problems/jump-game/,B75 NC150 NC250 G169 TI150 T100 SPP
+56,Merge Intervals,Medium,algorithms,https://leetcode.com/problems/merge-intervals/,B75 NC150 NC250 G169 TI150 T100 SPP
+57,Insert Interval,Medium,algorithms,https://leetcode.com/problems/insert-interval/,B75 NC150 NC250 G169 TI150 SPP
+58,Length of Last Word,Easy,algorithms,https://leetcode.com/problems/length-of-last-word/,TI150
+60,Permutation Sequence,Hard,algorithms,https://leetcode.com/problems/permutation-sequence/,
+61,Rotate List,Medium,algorithms,https://leetcode.com/problems/rotate-list/,G169 TI150 SPP
+62,Unique Paths,Medium,algorithms,https://leetcode.com/problems/unique-paths/,B75 NC150 NC250 G169 LC75 T100 SPP
+63,Unique Paths II,Medium,algorithms,https://leetcode.com/problems/unique-paths-ii/,NC250 TI150
+64,Minimum Path Sum,Medium,algorithms,https://leetcode.com/problems/minimum-path-sum/,NC250 TI150 T100
+65,Valid Number,Hard,algorithms,https://leetcode.com/problems/valid-number/,
+68,Text Justification,Hard,algorithms,https://leetcode.com/problems/text-justification/,TI150
+69,Sqrt(x),Easy,algorithms,https://leetcode.com/problems/sqrtx/,NC250 TI150
+70,Climbing Stairs,Easy,algorithms,https://leetcode.com/problems/climbing-stairs/,B75 NC150 NC250 G169 TI150 T100 SPP
+71,Simplify Path,Medium,algorithms,https://leetcode.com/problems/simplify-path/,NC250 TI150
+72,Edit Distance,Medium,algorithms,https://leetcode.com/problems/edit-distance/,NC150 NC250 LC75 TI150 T100
+73,Set Matrix Zeroes,Medium,algorithms,https://leetcode.com/problems/set-matrix-zeroes/,B75 NC150 NC250 G169 TI150 T100 SPP
+74,Search a 2D Matrix,Medium,algorithms,https://leetcode.com/problems/search-a-2d-matrix/,NC150 NC250 G169 TI150 T100 SPP
+75,Sort Colors,Medium,algorithms,https://leetcode.com/problems/sort-colors/,NC250 G169 T100 SPP
+76,Minimum Window Substring,Hard,algorithms,https://leetcode.com/problems/minimum-window-substring/,B75 NC150 NC250 G169 TI150 T100 SPP
+78,Subsets,Medium,algorithms,https://leetcode.com/problems/subsets/,NC150 NC250 G169 T100 SPP
+79,Word Search,Medium,algorithms,https://leetcode.com/problems/word-search/,B75 NC150 NC250 G169 TI150 T100 SPP
+84,Largest Rectangle in Histogram,Hard,algorithms,https://leetcode.com/problems/largest-rectangle-in-histogram/,NC150 NC250 G169 T100
+85,Maximal Rectangle,Hard,algorithms,https://leetcode.com/problems/maximal-rectangle/,
+87,Scramble String,Hard,algorithms,https://leetcode.com/problems/scramble-string/,
+90,Subsets II,Medium,algorithms,https://leetcode.com/problems/subsets-ii/,NC150 NC250 SPP
+91,Decode Ways,Medium,algorithms,https://leetcode.com/problems/decode-ways/,B75 NC150 NC250 G169 SPP
+93,Restore IP Addresses,Medium,algorithms,https://leetcode.com/problems/restore-ip-addresses/,
+94,Binary Tree Inorder Traversal,Easy,algorithms,https://leetcode.com/problems/binary-tree-inorder-traversal/,NC250 T100
+97,Interleaving String,Medium,algorithms,https://leetcode.com/problems/interleaving-string/,NC150 NC250 TI150
+98,Validate Binary Search Tree,Medium,algorithms,https://leetcode.com/problems/validate-binary-search-tree/,B75 NC150 NC250 G169 TI150 T100 SPP
+100,Same Tree,Easy,algorithms,https://leetcode.com/problems/same-tree/,B75 NC150 NC250 G169 TI150 SPP
+101,Symmetric Tree,Easy,algorithms,https://leetcode.com/problems/symmetric-tree/,G169 TI150 T100
+102,Binary Tree Level Order Traversal,Medium,algorithms,https://leetcode.com/problems/binary-tree-level-order-traversal/,B75 NC150 NC250 G169 TI150 T100 SPP
+104,Maximum Depth of Binary Tree,Easy,algorithms,https://leetcode.com/problems/maximum-depth-of-binary-tree/,B75 NC150 NC250 G169 LC75 TI150 T100 SPP
+106,Construct Binary Tree from Inorder and Postorder Traversal,Medium,algorithms,https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/,TI150
+110,Balanced Binary Tree,Easy,algorithms,https://leetcode.com/problems/balanced-binary-tree/,NC150 NC250 G169
+115,Distinct Subsequences,Hard,algorithms,https://leetcode.com/problems/distinct-subsequences/,NC150 NC250
+116,Populating Next Right Pointers in Each Node,Medium,algorithms,https://leetcode.com/problems/populating-next-right-pointers-in-each-node/,
+118,Pascal's Triangle,Easy,algorithms,https://leetcode.com/problems/pascals-triangle/,T100
+121,Best Time to Buy and Sell Stock,Easy,algorithms,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,B75 NC150 NC250 G169 TI150 T100 SPP
+122,Best Time to Buy and Sell Stock II,Medium,algorithms,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,NC250 TI150
+123,Best Time to Buy and Sell Stock III,Hard,algorithms,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,TI150
+124,Binary Tree Maximum Path Sum,Hard,algorithms,https://leetcode.com/problems/binary-tree-maximum-path-sum/,B75 NC150 NC250 G169 TI150 T100 SPP
+127,Word Ladder,Hard,algorithms,https://leetcode.com/problems/word-ladder/,NC150 NC250 G169 TI150
+128,Longest Consecutive Sequence,Medium,algorithms,https://leetcode.com/problems/longest-consecutive-sequence/,B75 NC150 NC250 G169 TI150 T100 SPP
+131,Palindrome Partitioning,Medium,algorithms,https://leetcode.com/problems/palindrome-partitioning/,NC150 NC250 T100 SPP
+133,Clone Graph,Medium,algorithms,https://leetcode.com/problems/clone-graph/,B75 NC150 NC250 G169 TI150 SPP
+138,Copy List with Random Pointer,Medium,algorithms,https://leetcode.com/problems/copy-list-with-random-pointer/,NC150 NC250 TI150 T100
+139,Word Break,Medium,algorithms,https://leetcode.com/problems/word-break/,B75 NC150 NC250 G169 TI150 T100 SPP
+141,Linked List Cycle,Easy,algorithms,https://leetcode.com/problems/linked-list-cycle/,B75 NC150 NC250 G169 TI150 T100 SPP
+142,Linked List Cycle II,Medium,algorithms,https://leetcode.com/problems/linked-list-cycle-ii/,T100 SPP
+143,Reorder List,Medium,algorithms,https://leetcode.com/problems/reorder-list/,B75 NC150 NC250 G169 SPP
+144,Binary Tree Preorder Traversal,Easy,algorithms,https://leetcode.com/problems/binary-tree-preorder-traversal/,NC250
+145,Binary Tree Postorder Traversal,Easy,algorithms,https://leetcode.com/problems/binary-tree-postorder-traversal/,NC250
+146,LRU Cache,Medium,algorithms,https://leetcode.com/problems/lru-cache/,NC150 NC250 G169 TI150 T100
+151,Reverse Words in a String,Medium,algorithms,https://leetcode.com/problems/reverse-words-in-a-string/,LC75 TI150
+152,Maximum Product Subarray,Medium,algorithms,https://leetcode.com/problems/maximum-product-subarray/,B75 NC150 NC250 G169 T100 SPP
+153,Find Minimum in Rotated Sorted Array,Medium,algorithms,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,B75 NC150 NC250 G169 TI150 T100 SPP
+155,Min Stack,Medium,algorithms,https://leetcode.com/problems/min-stack/,NC150 NC250 G169 TI150 T100
+156,Binary Tree Upside Down,Medium,algorithms,https://leetcode.com/problems/binary-tree-upside-down/,
+157,Read N Characters Given Read4,Easy,algorithms,https://leetcode.com/problems/read-n-characters-given-read4/,
+159,Longest Substring with At Most Two Distinct Characters,Medium,algorithms,https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/,
+160,Intersection of Two Linked Lists,Easy,algorithms,https://leetcode.com/problems/intersection-of-two-linked-lists/,T100
+169,Majority Element,Easy,algorithms,https://leetcode.com/problems/majority-element/,NC250 G169 TI150 T100 SPP
+187,Repeated DNA Sequences,Medium,algorithms,https://leetcode.com/problems/repeated-dna-sequences/,
+188,Best Time to Buy and Sell Stock IV,Hard,algorithms,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,TI150
+190,Reverse Bits,Easy,algorithms,https://leetcode.com/problems/reverse-bits/,B75 NC150 NC250 G169 TI150 SPP
+191,Number of 1 Bits,Easy,algorithms,https://leetcode.com/problems/number-of-1-bits/,B75 NC150 NC250 G169 TI150 SPP
+197,Rising Temperature,Easy,database/other,https://leetcode.com/problems/rising-temperature/,
+198,House Robber,Medium,algorithms,https://leetcode.com/problems/house-robber/,B75 NC150 NC250 G169 LC75 TI150 T100 SPP
+200,Number of Islands,Medium,algorithms,https://leetcode.com/problems/number-of-islands/,B75 NC150 NC250 G169 TI150 T100 SPP
+206,Reverse Linked List,Easy,algorithms,https://leetcode.com/problems/reverse-linked-list/,B75 NC150 NC250 G169 LC75 T100 SPP
+207,Course Schedule,Medium,algorithms,https://leetcode.com/problems/course-schedule/,B75 NC150 NC250 G169 TI150 T100 SPP
+208,Implement Trie (Prefix Tree),Medium,algorithms,https://leetcode.com/problems/implement-trie-prefix-tree/,B75 NC150 NC250 G169 LC75 TI150 T100 SPP
+209,Minimum Size Subarray Sum,Medium,algorithms,https://leetcode.com/problems/minimum-size-subarray-sum/,NC250 TI150 SPP
+210,Course Schedule II,Medium,algorithms,https://leetcode.com/problems/course-schedule-ii/,NC150 NC250 G169 TI150 SPP
+213,House Robber II,Medium,algorithms,https://leetcode.com/problems/house-robber-ii/,B75 NC150 NC250 SPP
+214,Shortest Palindrome,Hard,algorithms,https://leetcode.com/problems/shortest-palindrome/,
+215,Kth Largest Element in an Array,Medium,algorithms,https://leetcode.com/problems/kth-largest-element-in-an-array/,NC150 NC250 G169 LC75 TI150 T100 SPP
+217,Contains Duplicate,Easy,algorithms,https://leetcode.com/problems/contains-duplicate/,B75 NC150 NC250 G169 SPP
+225,Implement Stack using Queues,Easy,algorithms,https://leetcode.com/problems/implement-stack-using-queues/,NC250
+226,Invert Binary Tree,Easy,algorithms,https://leetcode.com/problems/invert-binary-tree/,B75 NC150 NC250 G169 TI150 T100 SPP
+230,Kth Smallest Element in a BST,Medium,algorithms,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,B75 NC150 NC250 G169 TI150 T100 SPP
+235,Lowest Common Ancestor of a Binary Search Tree,Medium,algorithms,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,B75 NC150 NC250 G169 SPP
+236,Lowest Common Ancestor of a Binary Tree,Medium,algorithms,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,G169 LC75 TI150 T100 SPP
+237,Delete Node in a Linked List,Medium,algorithms,https://leetcode.com/problems/delete-node-in-a-linked-list/,
+238,Product of Array Except Self,Medium,algorithms,https://leetcode.com/problems/product-of-array-except-self/,B75 NC150 NC250 G169 LC75 TI150 T100 SPP
+239,Sliding Window Maximum,Hard,algorithms,https://leetcode.com/problems/sliding-window-maximum/,NC150 NC250 G169 T100 SPP
+242,Valid Anagram,Easy,algorithms,https://leetcode.com/problems/valid-anagram/,B75 NC150 NC250 G169 TI150 SPP
+244,Shortest Word Distance II,Medium,algorithms,https://leetcode.com/problems/shortest-word-distance-ii/,
+256,Paint House,Medium,algorithms,https://leetcode.com/problems/paint-house/,
+268,Missing Number,Easy,algorithms,https://leetcode.com/problems/missing-number/,B75 NC150 NC250 G169 SPP
+277,Find the Celebrity,Medium,algorithms,https://leetcode.com/problems/find-the-celebrity/,
+287,Find the Duplicate Number,Medium,algorithms,https://leetcode.com/problems/find-the-duplicate-number/,NC150 NC250 G169 T100 SPP
+295,Find Median from Data Stream,Hard,algorithms,https://leetcode.com/problems/find-median-from-data-stream/,B75 NC150 NC250 G169 TI150 T100 SPP
+297,Serialize and Deserialize Binary Tree,Hard,algorithms,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,B75 NC150 NC250 G169 SPP
+300,Longest Increasing Subsequence,Medium,algorithms,https://leetcode.com/problems/longest-increasing-subsequence/,B75 NC150 NC250 G169 TI150 T100 SPP
+301,Remove Invalid Parentheses,Hard,algorithms,https://leetcode.com/problems/remove-invalid-parentheses/,
+305,Number of Islands II,Hard,algorithms,https://leetcode.com/problems/number-of-islands-ii/,
+319,Bulb Switcher,Medium,algorithms,https://leetcode.com/problems/bulb-switcher/,
+322,Coin Change,Medium,algorithms,https://leetcode.com/problems/coin-change/,B75 NC150 NC250 G169 TI150 T100 SPP
+332,Reconstruct Itinerary,Hard,algorithms,https://leetcode.com/problems/reconstruct-itinerary/,NC150 NC250
+338,Counting Bits,Easy,algorithms,https://leetcode.com/problems/counting-bits/,B75 NC150 NC250 G169 LC75 SPP
+339,Nested List Weight Sum,Medium,algorithms,https://leetcode.com/problems/nested-list-weight-sum/,
+344,Reverse String,Easy,algorithms,https://leetcode.com/problems/reverse-string/,NC250
+347,Top K Frequent Elements,Medium,algorithms,https://leetcode.com/problems/top-k-frequent-elements/,B75 NC150 NC250 T100 SPP
+364,Nested List Weight Sum II,Medium,algorithms,https://leetcode.com/problems/nested-list-weight-sum-ii/,
+366,Find Leaves of Binary Tree,Medium,algorithms,https://leetcode.com/problems/find-leaves-of-binary-tree/,
+371,Sum of Two Integers,Medium,algorithms,https://leetcode.com/problems/sum-of-two-integers/,B75 NC150 NC250 SPP
+380,Insert Delete GetRandom O(1),Medium,algorithms,https://leetcode.com/problems/insert-delete-getrandom-o1/,G169 TI150
+399,Evaluate Division,Medium,algorithms,https://leetcode.com/problems/evaluate-division/,NC250 LC75 TI150
+406,Queue Reconstruction by Height,Medium,algorithms,https://leetcode.com/problems/queue-reconstruction-by-height/,
+416,Partition Equal Subset Sum,Medium,algorithms,https://leetcode.com/problems/partition-equal-subset-sum/,NC150 NC250 G169 T100 SPP
+417,Pacific Atlantic Water Flow,Medium,algorithms,https://leetcode.com/problems/pacific-atlantic-water-flow/,B75 NC150 NC250 G169 SPP
+424,Longest Repeating Character Replacement,Medium,algorithms,https://leetcode.com/problems/longest-repeating-character-replacement/,B75 NC150 NC250 G169 SPP
+432,All O`one Data Structure,Hard,algorithms,https://leetcode.com/problems/all-oone-data-structure/,
+435,Non-overlapping Intervals,Medium,algorithms,https://leetcode.com/problems/non-overlapping-intervals/,B75 NC150 NC250 G169 LC75 SPP
+450,Delete Node in a BST,Medium,algorithms,https://leetcode.com/problems/delete-node-in-a-bst/,NC250 LC75
+455,Assign Cookies,Easy,algorithms,https://leetcode.com/problems/assign-cookies/,
+485,Max Consecutive Ones,Easy,algorithms,https://leetcode.com/problems/max-consecutive-ones/,
+493,Reverse Pairs,Hard,algorithms,https://leetcode.com/problems/reverse-pairs/,
+496,Next Greater Element I,Easy,algorithms,https://leetcode.com/problems/next-greater-element-i/,
+498,Diagonal Traverse,Medium,algorithms,https://leetcode.com/problems/diagonal-traverse/,
+503,Next Greater Element II,Medium,algorithms,https://leetcode.com/problems/next-greater-element-ii/,
+540,Single Element in a Sorted Array,Medium,algorithms,https://leetcode.com/problems/single-element-in-a-sorted-array/,
+543,Diameter of Binary Tree,Easy,algorithms,https://leetcode.com/problems/diameter-of-binary-tree/,NC150 NC250 G169 T100
+550,Game Play Analysis IV,Medium,database/other,https://leetcode.com/problems/game-play-analysis-iv/,
+556,Next Greater Element III,Medium,algorithms,https://leetcode.com/problems/next-greater-element-iii/,
+560,Subarray Sum Equals K,Medium,algorithms,https://leetcode.com/problems/subarray-sum-equals-k/,NC250 G169 T100
+567,Permutation in String,Medium,algorithms,https://leetcode.com/problems/permutation-in-string/,NC150 NC250 SPP
+570,Managers with at Least 5 Direct Reports,Medium,database/other,https://leetcode.com/problems/managers-with-at-least-5-direct-reports/,
+572,Subtree of Another Tree,Easy,algorithms,https://leetcode.com/problems/subtree-of-another-tree/,B75 NC150 NC250 G169 SPP
+577,Employee Bonus,Easy,database/other,https://leetcode.com/problems/employee-bonus/,
+584,Find Customer Referee,Easy,database/other,https://leetcode.com/problems/find-customer-referee/,
+595,Big Countries,Easy,database/other,https://leetcode.com/problems/big-countries/,
+605,Can Place Flowers,Easy,algorithms,https://leetcode.com/problems/can-place-flowers/,LC75
+620,Not Boring Movies,Easy,database/other,https://leetcode.com/problems/not-boring-movies/,
+643,Maximum Average Subarray I,Easy,algorithms,https://leetcode.com/problems/maximum-average-subarray-i/,LC75 SPP
+647,Palindromic Substrings,Medium,algorithms,https://leetcode.com/problems/palindromic-substrings/,B75 NC150 NC250 SPP
+658,Find K Closest Elements,Medium,algorithms,https://leetcode.com/problems/find-k-closest-elements/,NC250 G169 SPP
+670,Maximum Swap,Medium,algorithms,https://leetcode.com/problems/maximum-swap/,
+671,Second Minimum Node In a Binary Tree,Easy,algorithms,https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/,
+700,Search in a Binary Search Tree,Easy,algorithms,https://leetcode.com/problems/search-in-a-binary-search-tree/,LC75
+703,Kth Largest Element in a Stream,Easy,algorithms,https://leetcode.com/problems/kth-largest-element-in-a-stream/,NC150 NC250
+716,Max Stack,Hard,algorithms,https://leetcode.com/problems/max-stack/,
+721,Accounts Merge,Medium,algorithms,https://leetcode.com/problems/accounts-merge/,NC250 G169
+733,Flood Fill,Easy,algorithms,https://leetcode.com/problems/flood-fill/,G169
+743,Network Delay Time,Medium,algorithms,https://leetcode.com/problems/network-delay-time/,NC150 NC250
+767,Reorganize String,Medium,algorithms,https://leetcode.com/problems/reorganize-string/,NC250 SPP
+785,Is Graph Bipartite?,Medium,algorithms,https://leetcode.com/problems/is-graph-bipartite/,
+787,Cheapest Flights Within K Stops,Medium,algorithms,https://leetcode.com/problems/cheapest-flights-within-k-stops/,NC150 NC250 G169
+791,Custom Sort String,Medium,algorithms,https://leetcode.com/problems/custom-sort-string/,
+797,All Paths From Source to Target,Medium,algorithms,https://leetcode.com/problems/all-paths-from-source-to-target/,
+802,Find Eventual Safe States,Medium,algorithms,https://leetcode.com/problems/find-eventual-safe-states/,
+815,Bus Routes,Hard,algorithms,https://leetcode.com/problems/bus-routes/,G169
+841,Keys and Rooms,Medium,algorithms,https://leetcode.com/problems/keys-and-rooms/,LC75
+843,Guess the Word,Hard,algorithms,https://leetcode.com/problems/guess-the-word/,
+853,Car Fleet,Medium,algorithms,https://leetcode.com/problems/car-fleet/,NC150 NC250
+876,Middle of the Linked List,Easy,algorithms,https://leetcode.com/problems/middle-of-the-linked-list/,G169 SPP
+886,Possible Bipartition,Medium,algorithms,https://leetcode.com/problems/possible-bipartition/,
+891,Sum of Subsequence Widths,Hard,algorithms,https://leetcode.com/problems/sum-of-subsequence-widths/,
+901,Online Stock Span,Medium,algorithms,https://leetcode.com/problems/online-stock-span/,NC250 LC75
+968,Binary Tree Cameras,Hard,algorithms,https://leetcode.com/problems/binary-tree-cameras/,
+981,Time Based Key-Value Store,Medium,algorithms,https://leetcode.com/problems/time-based-key-value-store/,NC150 NC250 G169
+987,Vertical Order Traversal of a Binary Tree,Hard,algorithms,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,
+990,Satisfiability of Equality Equations,Medium,algorithms,https://leetcode.com/problems/satisfiability-of-equality-equations/,
+992,Subarrays with K Different Integers,Hard,algorithms,https://leetcode.com/problems/subarrays-with-k-different-integers/,
+995,Minimum Number of K Consecutive Bit Flips,Hard,algorithms,https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/,
+997,Find the Town Judge,Easy,algorithms,https://leetcode.com/problems/find-the-town-judge/,NC250
+1004,Max Consecutive Ones III,Medium,algorithms,https://leetcode.com/problems/max-consecutive-ones-iii/,LC75
+1045,Customers Who Bought All Products,Medium,database/other,https://leetcode.com/problems/customers-who-bought-all-products/,
+1052,Grumpy Bookstore Owner,Medium,algorithms,https://leetcode.com/problems/grumpy-bookstore-owner/,
+1068,Product Sales Analysis I,Easy,database/other,https://leetcode.com/problems/product-sales-analysis-i/,
+1074,Number of Submatrices That Sum to Target,Hard,algorithms,https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/,
+1075,Project Employees I,Easy,database/other,https://leetcode.com/problems/project-employees-i/,
+1143,Longest Common Subsequence,Medium,algorithms,https://leetcode.com/problems/longest-common-subsequence/,B75 NC150 NC250 LC75 T100 SPP
+1148,Article Views I,Easy,database/other,https://leetcode.com/problems/article-views-i/,
+1168,Optimize Water Distribution in a Village,Hard,algorithms,https://leetcode.com/problems/optimize-water-distribution-in-a-village/,
+1174,Immediate Food Delivery II,Medium,database/other,https://leetcode.com/problems/immediate-food-delivery-ii/,
+1176,Diet Plan Performance,Easy,algorithms,https://leetcode.com/problems/diet-plan-performance/,
+1193,Monthly Transactions I,Medium,database/other,https://leetcode.com/problems/monthly-transactions-i/,
+1197,Minimum Knight Moves,Medium,algorithms,https://leetcode.com/problems/minimum-knight-moves/,G169
+1208,Get Equal Substrings Within Budget,Medium,algorithms,https://leetcode.com/problems/get-equal-substrings-within-budget/,
+1211,Queries Quality and Percentage,Easy,database/other,https://leetcode.com/problems/queries-quality-and-percentage/,
+1234,Replace the Substring for Balanced String,Medium,algorithms,https://leetcode.com/problems/replace-the-substring-for-balanced-string/,
+1235,Maximum Profit in Job Scheduling,Hard,algorithms,https://leetcode.com/problems/maximum-profit-in-job-scheduling/,G169
+1251,Average Selling Price,Easy,database/other,https://leetcode.com/problems/average-selling-price/,
+1280,Students and Examinations,Easy,database/other,https://leetcode.com/problems/students-and-examinations/,
+1306,Jump Game III,Medium,algorithms,https://leetcode.com/problems/jump-game-iii/,
+1378,Replace Employee ID With The Unique Identifier,Easy,database/other,https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/,
+1423,Maximum Points You Can Obtain from Cards,Medium,algorithms,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/,
+1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,Medium,algorithms,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/,
+1515,Best Position for a Service Centre,Hard,algorithms,https://leetcode.com/problems/best-position-for-a-service-centre/,
+1520,Maximum Number of Non-Overlapping Substrings,Hard,algorithms,https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/,
+1534,Count Good Triplets,Easy,algorithms,https://leetcode.com/problems/count-good-triplets/,
+1581,Customer Who Visited but Did Not Make Any Transactions,Easy,database/other,https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/,
+1584,Min Cost to Connect All Points,Medium,algorithms,https://leetcode.com/problems/min-cost-to-connect-all-points/,NC150 NC250
+1610,Maximum Number of Visible Points,Hard,algorithms,https://leetcode.com/problems/maximum-number-of-visible-points/,
+1631,Path With Minimum Effort,Medium,algorithms,https://leetcode.com/problems/path-with-minimum-effort/,NC250
+1633,Percentage of Users Attended a Contest,Easy,database/other,https://leetcode.com/problems/percentage-of-users-attended-a-contest/,
+1661,Average Time of Process per Machine,Easy,database/other,https://leetcode.com/problems/average-time-of-process-per-machine/,
+1683,Invalid Tweets,Easy,database/other,https://leetcode.com/problems/invalid-tweets/,
+1731,The Number of Employees Which Report to Each Employee,Easy,database/other,https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/,
+1757,Recyclable and Low Fat Products,Easy,database/other,https://leetcode.com/problems/recyclable-and-low-fat-products/,
+1776,Car Fleet II,Hard,algorithms,https://leetcode.com/problems/car-fleet-ii/,
+1844,Replace All Digits with Characters,Easy,algorithms,https://leetcode.com/problems/replace-all-digits-with-characters/,
+1921,Eliminate Maximum Number of Monsters,Medium,algorithms,https://leetcode.com/problems/eliminate-maximum-number-of-monsters/,
+1934,Confirmation Rate,Medium,database/other,https://leetcode.com/problems/confirmation-rate/,
+1944,Number of Visible People in a Queue,Hard,algorithms,https://leetcode.com/problems/number-of-visible-people-in-a-queue/,
+2092,Find All People With Secret,Hard,algorithms,https://leetcode.com/problems/find-all-people-with-secret/,
+2104,Sum of Subarray Ranges,Medium,algorithms,https://leetcode.com/problems/sum-of-subarray-ranges/,
+2313,Minimum Flips in Binary Tree to Get Result,Hard,algorithms,https://leetcode.com/problems/minimum-flips-in-binary-tree-to-get-result/,
+2345,Finding the Number of Visible Mountains,Medium,algorithms,https://leetcode.com/problems/finding-the-number-of-visible-mountains/,
+2356,Number of Unique Subjects Taught by Each Teacher,Easy,database/other,https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/,
+3043,Find the Length of the Longest Common Prefix,Medium,algorithms,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/,
+3191,Minimum Operations to Make Binary Array Elements Equal to One I,Medium,algorithms,https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/,
+3471,Find the Largest Almost Missing Integer,Easy,algorithms,https://leetcode.com/problems/find-the-largest-almost-missing-integer/,
+3472,Longest Palindromic Subsequence After at Most K Operations,Medium,algorithms,https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations/,
+3566,Partition Array into Two Equal Product Subsets,Medium,algorithms,https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/,
+3627,Maximum Median Sum of Subsequences of Size 3,Medium,algorithms,https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3/,
+3628,Maximum Number of Subsequences After One Inserting,Medium,algorithms,https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting/,
+3898,Find the Degree of Each Vertex,Easy,algorithms,https://leetcode.com/problems/find-the-degree-of-each-vertex/,
+3899,Angles of a Triangle,Medium,algorithms,https://leetcode.com/problems/angles-of-a-triangle/,
