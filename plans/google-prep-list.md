@@ -4,7 +4,7 @@ Unsolved problems picked from the LeetCode Google company tag (6-month frequency
 
 Tier A: 60 · Tier B: 44 · Tier C: 8
 
-> **Start with [`google-recent-interviews.md`](google-recent-interviews.md)** — patterns and problems from 123 real Google interview questions reported in the last 6 months. Its unsolved list overrides the tiers below where they overlap.
+> **Start with [`google-recent-interviews.md`](google-recent-interviews.md)** — patterns and problems from 270 real Google interview questions reported in the last 12 months. Its unsolved list overrides the tiers below where they overlap.
 
 ## Tier A: do first (weeks 1-2)
 

@@ -51,7 +51,7 @@ Full list: [`snapshots/2026-09-28-solved.md`](snapshots/2026-09-28-solved.md) (a
 
 ## Plans
 
-- [`plans/google-recent-interviews.md`](plans/google-recent-interviews.md) — patterns, recurring questions and a practice list from 123 coding questions in first-hand Google interview posts (Mar–Sep 2026).
+- [`plans/google-recent-interviews.md`](plans/google-recent-interviews.md) — patterns, recurring questions, a practice list, system design rounds and Googleyness themes from 270 coding questions in first-hand Google interview posts (Sep 2025–Sep 2026).
 - [`plans/google-prep-list.md`](plans/google-prep-list.md) — 112 unsolved Google-tagged problems (6-month frequency), grouped by pattern into three tiers.
 
 ## Adding a new snapshot
