@@ -54,6 +54,10 @@ Full list: [`snapshots/2026-09-28-solved.md`](snapshots/2026-09-28-solved.md) (a
 - [`plans/google-recent-interviews.md`](plans/google-recent-interviews.md) — patterns, recurring questions, a practice list, system design rounds and Googleyness themes from 270 coding questions in first-hand Google interview posts (Sep 2025–Sep 2026).
 - [`plans/google-prep-list.md`](plans/google-prep-list.md) — 112 unsolved Google-tagged problems (6-month frequency), grouped by pattern into three tiers.
 
+## Notes
+
+- [`notes/techniques.md`](notes/techniques.md) — catalogue of 138 DSA techniques across 17 categories, each with its core idea and LeetCode practice problems (solved ones marked).
+
 ## Adding a new snapshot
 
 Export the solved list from LeetCode, add it as `snapshots/YYYY-MM-DD-solved.md` / `.csv`, and update the numbers above.
